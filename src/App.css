@@ -1,0 +1,13 @@
+.top-bar {
+    --background: #d35400;
+    --color: white;
+    border: none;
+}
+
+.tab-button {
+    --color-selected: #e7e7e7;
+}
+
+.tab-selected {
+    border-bottom: 3px solid #e7e7e7;
+}
